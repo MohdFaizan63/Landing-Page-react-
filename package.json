@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mohdfaizan63.github.io/Landing-Page-react-/",
+ "homepage": "https://MohdFaizan63.github.io/Landing-Page-react-",
   "name": "react-1",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "dependencies": {
     "react": "^19.1.0",
