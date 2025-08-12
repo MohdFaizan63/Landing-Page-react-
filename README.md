@@ -1,3 +1,18 @@
+# React Landing Page
+
+This project is a simple, responsive, and modern landing page built using **React**. It is designed to showcase a clean, visually appealing interface, perfect for businesses, portfolios, or product promotions. The landing page adapts to different screen sizes and devices, ensuring a smooth user experience.
+
+## Features
+
+- **Responsive Design**: Optimized for all devices including desktops, tablets, and smartphones.
+- **Smooth Scrolling**: Navigation between different sections is fluid and seamless.
+- **Customizable Sections**: Easy-to-modify sections such as About, Features, and Contact.
+- **React-based**: Built with the power of React for dynamic content updates.
+
+## Installation
+link - 🔗 https://mohdfaizan63.github.io/Landing-Page-react-/
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
